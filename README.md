@@ -1,2 +1,4 @@
-# aortiz-vdl-site-4156
-Personal academic website source for Dr. Angela Ortiz (Verdant Data Lab)
+# Personal academic website
+
+Source repository for the academic website. Publications live in `_publications/`
+as Markdown files with YAML front matter.
